@@ -1,6 +1,6 @@
 #Ignorar archivos de Python
 __pycache__/
-*.py[cod]
+*.py[cod] 
 
 #Entornos virtuales
 .venv/
